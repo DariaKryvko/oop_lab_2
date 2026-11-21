@@ -18,7 +18,7 @@
                 .container {
                     max-width: 1600px;
                     margin: 0 auto;
-                    background: #ffffff;
+                    background: #dcf7c8;
                     border-radius: 8px;
                     box-shadow: 0 4px 12px rgba(0,0,0,0.08);
                     padding: 30px;
